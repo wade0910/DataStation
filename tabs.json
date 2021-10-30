@@ -24,21 +24,20 @@
 				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg",
 		                "schema": {
-    "name": {
-      "title": "Name",
-      "description": "Nickname allowed",
-      "type": "string"
-    },
-    "gender": {
-      "title": "Gender",
-      "description": "Your gender",
-      "type": "string",
-      "enum": [
-        "male",
-        "female",
-        "alien"
-      ]
-    },
+				    "name": {
+     				       "title": "Name",
+     				       "description": "Nickname allowed",
+     				       "type": "string"
+     				       },
+     				        "gender": {
+         				         "title": "Gender",
+         				         "description": "Your gender",
+          				        "type": "string",
+         				         "enum": [
+          				          "male",
+          				          "female",
+          				          "alien"
+         				         ]
 			},
 			"open": false
 		},
