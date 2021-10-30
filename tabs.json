@@ -16,52 +16,52 @@
 		},
 		{
 			"title": {
-				"text": "Planning"
+				"text": "購物週期"
 			},
 			"content": {
-				"headline": "Planning",
-				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"headline": "購物週期",
+				"text": "顧客流失率/顧客留存率/購物籃商品停滯時間長短",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
 			},
 			"open": false
 		},
 		{
 			"title": {
-				"text": "Production"
+				"text": "購買商品"
 			},
 			"content": {
-				"headline": "Production",
-				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"headline": "購買商品",
+				"text": "商品類別/商品編號/購買歷史/退貨歷史",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_production.svg"
 			},
 			"open": false
 		},
 		{
 			"title": {
-				"text": "Testing"
+				"text": "交易紀錄"
 			},
 			"content": {
-				"headline": "Testing",
-				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"headline": "交易紀錄",
+				"text": "Prime會員/購買金額/退貨歷史/信用卡",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
 			},
 			"open": false
 		},
 		{
 			"title": {
-				"text": "Result"
+				"text": "動態地圖"
 			},
 			"content": {
-				"headline": "Result",
-				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"headline": "動態地圖",
+				"text": "整合PChome用戶檔案和即時地圖",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
 			},
 			"open": false
