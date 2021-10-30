@@ -1,9 +1,9 @@
 {
-	"headline": "PChome Dynamic User Profile",
+	"headline": "PChome動態用戶檔案",
 	"tab": [
 		{
 			"title": {
-				"text": "Research"
+				"text": "行為活動"
 			},
 			"open": true,
 			"content": {
@@ -16,7 +16,7 @@
 		},
 		{
 			"title": {
-				"text": "Planning"
+				"text": "購物週期"
 			},
 			"content": {
 				"headline": "Planning",
@@ -29,7 +29,7 @@
 		},
 		{
 			"title": {
-				"text": "Production"
+				"text": "購買商品"
 			},
 			"content": {
 				"headline": "Production",
@@ -42,7 +42,7 @@
 		},
 		{
 			"title": {
-				"text": "Testing"
+				"text": "交易紀錄"
 			},
 			"content": {
 				"headline": "Testing",
@@ -55,7 +55,7 @@
 		},
 		{
 			"title": {
-				"text": "Result"
+				"text": "動態地圖"
 			},
 			"content": {
 				"headline": "Result",
