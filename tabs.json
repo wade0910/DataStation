@@ -12,7 +12,22 @@
 				"url": "#",
 				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
-			}
+			},
+			"schema": {
+				"field": {
+				  "type": "string",
+				  "title": "A field"
+				}
+			},
+				"form": [
+				{
+				"key": "field"
+				},
+				{
+				"type": "submit",
+				"title": "Submit"
+				}
+			]
 		},
 		{
 			"title": {
