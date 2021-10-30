@@ -10,7 +10,7 @@
 				"headline": "行為活動",
 				"text": "簡訊/地理位置/郵寄地址/使用裝置",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
 			}
 		},
@@ -22,7 +22,7 @@
 				"headline": "購物週期",
 				"text": "顧客流失率/顧客留存率/購物籃商品停滯時間長短",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
 			},
 			"open": false
@@ -35,7 +35,7 @@
 				"headline": "購買商品",
 				"text": "商品類別/商品編號/購買歷史/退貨歷史",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_production.svg"
 			},
 			"open": false
@@ -48,7 +48,7 @@
 				"headline": "交易紀錄",
 				"text": "Prime會員/購買金額/退貨歷史/信用卡",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
 			},
 			"open": false
@@ -61,7 +61,7 @@
 				"headline": "動態地圖",
 				"text": "整合PChome用戶檔案和即時地圖",
 				"url": "#",
-				"destination": "Details",
+				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
 			},
 			"open": false
