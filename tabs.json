@@ -22,7 +22,9 @@
 				"text": "顧客流失率/顧客留存率/購物籃商品停滯時間長短",
 				"url": "#",
 				"destination": "Predict",
-				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
+			},
+			"open": false
 		},
 		{
 			"title": {
