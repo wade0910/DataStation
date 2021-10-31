@@ -21,7 +21,7 @@
 			"content": {
 				"headline": "購物週期",
 				"text": "顧客流失率/顧客留存率/購物籃商品停滯時間長短",
-				"url": "#",
+				"url": "/cycle",
 				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
 			},
@@ -34,7 +34,7 @@
 			"content": {
 				"headline": "購買商品",
 				"text": "商品類別/商品編號/購買歷史/退貨歷史",
-				"url": "#",
+				"url": "/product",
 				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
 			},
@@ -47,7 +47,7 @@
 			"content": {
 				"headline": "交易紀錄",
 				"text": "Prime會員/購買金額/退貨歷史/信用卡",
-				"url": "#",
+				"url": "/transaction",
 				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
 			},
@@ -60,7 +60,7 @@
 			"content": {
 				"headline": "動態地圖",
 				"text": "整合PChome用戶檔案和即時地圖",
-				"url": "#",
+				"url": "/map",
 				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
 			},
