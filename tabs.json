@@ -60,7 +60,7 @@
 			"content": {
 				"headline": "動態地圖",
 				"text": "整合PChome用戶檔案和即時地圖",
-				"url": "/map",
+				"url": "/usermap",
 				"destination": "Predict",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
 			},
